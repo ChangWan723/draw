@@ -1,0 +1,43 @@
+﻿  正在跳过...(未检测到相关更改)
+  stdafx.cpp
+  program.cpp
+g:\代码\vs\draw\draw\program.cpp(657): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+g:\代码\vs\draw\draw\program.cpp(378): warning C4715: “expr”: 不是所有的控件路径都返回值
+  正在编译...
+  draw.cpp
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  view.cpp
+graphics1564.lib(color.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(color.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(egecontrolbase.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(egecontrolbase.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(egegapi.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(egegapi.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(image.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(image.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(adler32.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(adler32.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(compress.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(compress.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(crc32.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(crc32.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(deflate.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(deflate.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(graphics.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(graphics.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(inffast.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(inffast.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(inflate.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(inflate.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(inftrees.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(logo.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(logo.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(png.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(png.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngerror.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngerror.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngget.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngget.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngmem.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngmem.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngread.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngread.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngrio.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngrio.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngrtran.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngrtran.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngrutil.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngrutil.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngset.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngset.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngtrans.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngtrans.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngwio.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngwio.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngwrite.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngwrite.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngwtran.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngwtran.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(pngwutil.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(pngwutil.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(trees.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(trees.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(uncompr.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(uncompr.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics1564.lib(zutil.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics1564.lib(zutil.obj)”或在“G:\代码\vs\draw\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  draw.vcxproj -> G:\代码\vs\draw\Debug\draw.exe
+  draw.vcxproj -> G:\代码\vs\draw\Debug\draw.pdb (Full PDB)
